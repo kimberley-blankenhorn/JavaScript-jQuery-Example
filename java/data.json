@@ -1,0 +1,37 @@
+var movies = `[{
+    "name": "The Breakfast Club",
+    "image": "images/breakfastClub.jpg",
+    "description": "Five teenagers who neither know nor like each other go to weekend detention and discover they have more in common than they thought.",
+    "likes": 0  
+},
+{
+    "name": "The Goonies",
+    "image": "images/goonies.jpg",
+    "description": "They call themselves the Goonies - the leader, his big brother Brand, the big chunk, Data - the James Bond expert, Mouth - the nonsense head, the pretty Andy and Stef the snake in glasses. In the attic of their house they find an ancient pirate map and the most exciting adventure of their lives begins: they go on a hunt for the legendary pirate treasure.",
+    "likes": 0  
+},
+{
+    "name": "Ghostbusters",
+    "image": "images/ghostB.jpg",
+    "description": "After the members of a team of scientists lose their cushy positions at a university in New York City, they decide to become ghostbusters to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+    "likes": 0  
+},
+{
+    "name": "Gremlins",
+    "image": "images/gremlins.jpg",
+    "description": "A gadget salesman is looking for a special gift for his son and finds one at a store in Chinatown. The shopkeeper is reluctant to sell him the mogwai but sells it to him with the warning to never expose him to bright light, water, or to feed him after midnight. All of this happens and the result is a gang of gremlins that decide to tear up the town on Christmas Eve.",
+    "likes": 0  
+},
+{
+    "name": "Bill & Ted's Excellent Adventure",
+    "image": "images/billandted.jpg",
+    "description": "Bill and Ted are high school buddies starting a band. However, they are about to fail their history class, which means Ted would be sent to military school. They receive help from Rufus, a traveler from the future. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation",
+    "likes": 0  
+},
+{
+    "name": "The Shining",
+    "image": "images/shining.jpg",
+    "description": "Jack Torrance becomes winter caretaker at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife, Wendy, and his son, Danny, who is plagued by psychic premonitions. Jack discovers the hotel's dark secrets and begins to unravel into a homicidal maniac hell-bent on terrorizing his family.",
+    "likes": 0  
+}
+]`
